@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Byunghwan 'Ben' Son (@textvulture), Associate Professor of Global Affairs at George Mason University.
 - 🌱 I’m currently teaching myself automated text analysis and applied causal inference.
-- 📫 How to reach me: kalkas@gmail.com; [webpage](ben-son.netlify.app) 
+- 📫 How to reach me: kalkas@gmail.com; [webpage](https://ben-son.netlify.app/) 
 
 <!---
 textvulture/textvulture is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
